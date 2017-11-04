@@ -1,7 +1,13 @@
-# OracleCodeRED
+# Oracle CodeRED Challenge
 Oracle Repo for CodeRED
 
 ![alt](https://flexagon.com/wp-content/uploads/2017/03/Oracle-Cloud-2-300x194.png)
+
+## The Challenge!
+Best use of Oracle Cloud Wins!
+
+###Guidelines
+Just make whatever hack you and your team makes utilize Oracle Cloud in some way, whether its hosting your web server on our services or building and deploying a REST service to feed into or mobile application or even using our SaaS applications to base your project around it all counts towards the challenge. 
 
 ## Useful Links
 
