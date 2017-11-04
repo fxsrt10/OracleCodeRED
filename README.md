@@ -6,3 +6,8 @@ Oracle Repo for CodeRED
 ## Useful Links
 
 ### [Get your free cloud account!](https://cloud.oracle.com/en_US/tryit)
+
+### [Learn More about Oracle Cloud](https://cloud.oracle.com/home)
+
+
+### [Oracle Mobile Platform Tutorials](https://www.youtube.com/user/OracleMobilePlatform)
